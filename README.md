@@ -57,20 +57,32 @@ Interviews help uncover emotional and behavioral challenges, while usability tes
 #### Persona 1: Priya Sharma
 
 Age: 27
+
 Occupation: Software Engineer
+
 Location: Bengaluru, India
+
 Goals: Maintain fitness despite a busy schedule.
+
 Behaviors: Uses smartwatch; tracks calories occasionally.
+
 Pain Points: Forgets to log data manually.
+
 Motivation: Stay healthy and energetic for work-life balance.
 
 #### Persona 2: Arjun Patel
 Age: 34
+
 Occupation: Marketing Manager
+
 Location: Mumbai, India
+
 Goals: Lose weight and reduce stress.
+
 Behaviors: Uses multiple apps but finds them inconsistent.
+
 Pain Points: Lacks personalized workout suggestions.
+
 Motivation: Wants to see measurable results.
 
 
@@ -100,22 +112,36 @@ Surveys reveal what users value most (speed, clarity, personalization), while A/
 
 
 #### Persona 1: Neha Verma
+
 Age: 30
+
 Occupation: Working Professional
+
 Location: Delhi, India
+
 Goals: Buy groceries quickly between meetings.
+
 Behaviors: Uses grocery apps multiple times a week.
+
 Pain Points: Too many pop-ups and banners distract her.
+
 Motivation: Wants a smooth and quick checkout.
 
 
 #### Persona 2: Rajesh Kumar
+
 Age: 42
+
 Occupation: Shop Owner
+
 Location: Chennai, India
+
 Goals: Reorder regular products for home and business.
+
 Behaviors: Shops online monthly; prefers reorder features.
+
 Pain Points: Hard to find frequently purchased items.
+
 Motivation: Wants convenience and time-saving options.
 
 
@@ -124,13 +150,20 @@ Motivation: Wants convenience and time-saving options.
 
 -> Two detailed UX project scenarios were created.
 
+
 -> Clear UX problem statements were written using the standard format.
 
+
 -> Appropriate research methods were identified and justified.
+
 
 -> Four user personas (two for each scenario) were developed based on user needs, behaviors, and motivations.
 
 
+
+
 ## Result:
 
-The study successfully identified user needs, pain points, and goals for both the health app and e-commerce website. By applying appropriate UX research methods and designing detailed personas, the experiment demonstrated how early UX research directly improves usability, accessibility, and user satisfaction in digital product design.
+The study successfully identified user needs, pain points, and goals for both the health app and e-commerce website. 
+By applying appropriate UX research methods and designing detailed personas, the experiment demonstrated how early 
+UX research directly improves usability, accessibility, and user satisfaction in digital product design.
