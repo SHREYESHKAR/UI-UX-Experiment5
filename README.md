@@ -76,7 +76,8 @@ The checkout process is long and filled with unnecessary steps.
 
 <img width="1600" height="845" alt="image" src="https://github.com/user-attachments/assets/aed733a1-b6d1-48ad-812c-6fa906d469bb" />
 
-![4c9ebc1d6fe5491aa7651d06e51a1672 1](https://github.com/user-attachments/assets/9251c2f8-ffe2-4ff0-9282-afeb4fdbca9e)
+![IMG-20251122-WA0127 1](https://github.com/user-attachments/assets/879817b0-2de8-4e9c-849b-cf74cc20b6fb)
+
 
 
 ### Problem Statement 1:
