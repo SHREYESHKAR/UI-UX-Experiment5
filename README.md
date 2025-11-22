@@ -1,169 +1,123 @@
-# UI-UX-Experiment 5
+# EXPERIMENT 5 : PRESENT TWO DIFFERENT PROJECT SCENARIOS:
+## NAME :  SHREYESHKAR SEKAR
+## REGISTRATION NUMBER : 212224220099
 
-# NAME : SHREYESHKAR SEKAR
-## REGISTER NUMBER : 212224220099
+## AIM :
 
-## Aim: To analyze and design two different UX project scenarios by identifying user pain points, defining clear UX problem statements, selecting appropriate research methods, and creating user personas that reflect real user needs and motivations.
+To Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
-## Algorithm:
+## ALGORITHM:
 
-Step 1: Select two distinct UX project scenarios (e.g., a Health & Fitness App and an E-Commerce Website).
+The UX design algorithm begins by identifying user groups, such as first-time applicants and working professionals, to address diverse needs. User pain points are collected via interviews, surveys, and observations, highlighting issues like confusing forms, document upload errors, and unclear status tracking. Problem statements are created using the template: “[User] needs a way to [goal] because [obstacle], which results in [impact].” Appropriate research methods are selected, including interviews, surveys, and usability testing. User personas are developed to guide design. Finally, solutions are designed, tested, and iterated, resulting in simplified forms, clear document instructions, transparent tracking, and actionable recommendations.
 
-Step 2: Identify the main user pain points for each scenario by observing or imagining real user challenges.
+## OUTPUT:
 
-Step 3: Write UX Problem Statements using the template: “[User] needs a way to [achieve goal] because [obstacle], which results in [impact].”
-
-Step 4: Identify suitable UX Research Methods (e.g., surveys, interviews, usability testing) and provide justification for choosing them.
-
-Step 5: Create User Personas for each scenario including:
-
-Demographics (age, occupation, location)
-
-Goals
-
-Behaviors
-
-Pain Points
-
-Motivations
-
-Step 6: Document all findings and present the outcomes as the Output.
-
-Step 7: Conclude with the Result summarizing what was learned.
-
-## SOLUTION :
-
-## 🩺 Project Scenario 1: Health & Fitness Tracking App
-
-### 1. Problem Statements
-
-Health-conscious users need a way to automatically track their fitness activities because manual entry is time-consuming, which results in inconsistent progress tracking.
-
-New users need a way to receive personalized fitness recommendations because generic content does not match their fitness level, which results in low engagement.
-
-### 2. Research Methods
-
-Chosen Methods:
-
-User Interviews: To understand daily fitness habits and motivational triggers.
-
-Usability Testing: To check whether the interface supports easy activity logging and progress viewing.
-
-Justification:
-Interviews help uncover emotional and behavioral challenges, while usability testing evaluates whether the design supports these needs efficiently.
-
-### 3. User Personas
-
-#### Persona 1: Priya Sharma
-
-Age: 27
-
-Occupation: Software Engineer
-
-Location: Bengaluru, India
-
-Goals: Maintain fitness despite a busy schedule.
-
-Behaviors: Uses smartwatch; tracks calories occasionally.
-
-Pain Points: Forgets to log data manually.
-
-Motivation: Stay healthy and energetic for work-life balance.
-
-#### Persona 2: Arjun Patel
-Age: 34
-
-Occupation: Marketing Manager
-
-Location: Mumbai, India
-
-Goals: Lose weight and reduce stress.
-
-Behaviors: Uses multiple apps but finds them inconsistent.
-
-Pain Points: Lacks personalized workout suggestions.
-
-Motivation: Wants to see measurable results.
-
-
-
-## 🛒 Project Scenario 2: E-Commerce Website (Online Grocery Store)
+### Project Scenario 1: Government Service Portal (Online Citizen Services)
 
 
 ### 1. Problem Statements
+### User Pain Points:
+Citizens face difficulty in finding the correct government forms or applying for services online.
+The portal interface is outdated, text-heavy, and often confusing for first-time users.
+<img width="1011" height="470" alt="GO2" src="https://github.com/user-attachments/assets/5a6505f4-a1f3-42ef-abba-ed1752fdaf1c" />
 
-Busy customers need a way to find and order daily groceries quickly because cluttered interfaces make navigation difficult, which results in frustration and wasted time.
+<img width="956" height="563" alt="GO1" src="https://github.com/user-attachments/assets/8700c335-4b96-47c7-bfd3-f905549a526e" />
 
-Returning users need a way to reorder previous items easily because current apps hide past orders, which results in repeated searches and delays.
+
+
+### Problem Statement 1:
+“Citizens need a way to easily locate and apply for government services because the current portals
+have complex navigation and unclear categories, which results in user confusion and incomplete
+applications.”
+
+### Problem Statement 2:
+“Elderly users need a way to access essential services without technical difficulty because most portals
+are not mobile-friendly, which results in frustration and reliance on others for help.”
 
 ### 2. Research Methods
-
 Chosen Methods:
+User Interviews: To understand challenges faced by people of different age groups while using
+e-governance portals.
+Heuristic Evaluation: To identify usability and accessibility issues in existing websites.
 
-Online Surveys: To collect feedback about shopping frequency, product search, and order experience.
-
-A/B Testing: To test simplified layouts against existing ones and measure improvement in task completion time.
-
-Justification:
-Surveys reveal what users value most (speed, clarity, personalization), while A/B testing gives measurable insights on which design performs better in real usage.
+### Justification:
+Interviews capture real-world frustrations and expectations of citizens, while heuristic evaluation
+helps assess the portal’s usability issues such as visibility, consistency, and error prevention.
 
 
 ### 3. User Personas
+### Persona 1: Meena Iyer
+Age: 52
+Occupation: School Teacher
+Location: Pune, India
+Goals: Renew her driver’s license and pay utility bills online easily.
+Behaviors: Uses a smartphone for basic browsing; prefers simple layouts.
+Pain Points: Finds government sites confusing with too many links and unclear instructions.
+Motivation: Wants a hassle-free way to complete tasks without visiting offices.
 
 
-#### Persona 1: Neha Verma
+### Persona 2: Rakesh Nair
+Age: 29
+UNIT 5 EXPERIMENT NAME : RUSHMITHA . R
+REGISTER NUMBER : 212224040281
+Occupation: IT Professional
+Location: Kochi, India
+Goals: Apply for official documents (PAN, Passport, etc.) efficiently.
+Behaviors: Comfortable with online services but expects faster performance.
+Pain Points: Slow loading pages and outdated design cause frustration.
+Motivation: Wants quick and reliable access to online forms and status tracking.
 
-Age: 30
+### Project Scenario 2: Food Delivery App (QuickMeal)
 
-Occupation: Working Professional
+### 1. Problem Statements
+### User Pain Points:
+Users get confused by too many restaurant choices and repetitive items.
+The checkout process is long and filled with unnecessary steps.
 
-Location: Delhi, India
+<img width="1200" height="675" alt="FO2" src="https://github.com/user-attachments/assets/1e50a30a-558a-4528-8af8-e412ead8247d" />
 
-Goals: Buy groceries quickly between meetings.
-
-Behaviors: Uses grocery apps multiple times a week.
-
-Pain Points: Too many pop-ups and banners distract her.
-
-Motivation: Wants a smooth and quick checkout.
-
-
-#### Persona 2: Rajesh Kumar
-
-Age: 42
-
-Occupation: Shop Owner
-
-Location: Chennai, India
-
-Goals: Reorder regular products for home and business.
-
-Behaviors: Shops online monthly; prefers reorder features.
-
-Pain Points: Hard to find frequently purchased items.
-
-Motivation: Wants convenience and time-saving options.
+<img width="1008" height="495" alt="FO1" src="https://github.com/user-attachments/assets/5c6f6c9e-e9d4-4291-b791-7aa92eb1a319" />
 
 
 
-## Output:
-
--> Two detailed UX project scenarios were created.
-
-
--> Clear UX problem statements were written using the standard format.
-
-
--> Appropriate research methods were identified and justified.
+### Problem Statement 1:
+“Busy professionals need a way to order food quickly because too many restaurant and menu options
+make decision-making difficult, which results in order delays and app abandonment.”
+### Problem Statement 2:
+“Frequent users need a simplified checkout process because extra confirmation steps slow down the
+ordering experience, which results in frustration and lower user retention.”
 
 
--> Four user personas (two for each scenario) were developed based on user needs, behaviors, and motivations.
+### 2. Research Methods
+### Chosen Methods:
+Online Surveys: To gather feedback about ordering pain points and preferred improvements.
+A/B Testing: To test different versions of the homepage — one simplified, one with full options
+— and compare completion time and satisfaction.
+
+### Justification:
+Surveys give quantitative insight into user frustrations and expectations, while A/B testing measures
+how simplification directly affects order speed and satisfaction.
 
 
+### 3. User Personas
+### Persona 1: Ananya Rao
+Age: 25
+Occupation: College Student
+Location: Hyderabad, India
+Goals: Order affordable food quickly during breaks.
+Behaviors: Uses food apps daily; prefers combo meals and fast delivery.
+Pain Points: Too many restaurant options and confusing offers.
+Motivation: Wants quick ordering and clear pricing.
 
+
+### Persona 2: Rohit Sen
+Age: 36
+Occupation: Sales Executive
+Location: Kolkata, India
+Goals: Get food delivered during busy workdays.
+Behaviors: Orders from the same few restaurants; prefers quick repeat orders.
+Pain Points: Long checkout process and multiple confirmation screens.
+Motivation: Wants a one-tap reorder option for convenience.
 
 ## Result:
-
-The study successfully identified user needs, pain points, and goals for both the health app and e-commerce website. 
-By applying appropriate UX research methods and designing detailed personas, the experiment demonstrated how early 
-UX research directly improves usability, accessibility, and user satisfaction in digital product design.
+Hence To Present 2 different UX project scenarios is completed successfully
